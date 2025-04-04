@@ -15,7 +15,7 @@ Run the following command inside the project folder:
 npm install
 ```
 This will install all required packages listed in `package.json`.
-Create a .env file in root directory with these variables:
+### Create a .env file in root directory with these variables:
 # MongoDB Configuration
 DATABASE=database_connection_string
 DATABASE_PASSWORD=
