@@ -47,13 +47,13 @@ SPARK/
 ├── .env             # Environment configuration
 └── package.json
 ```
-⚙️ Environment Variables (.env)
-Create a .env file in root directory with these variables:
+## ⚙️ Environment Variables (.env)
+### Create a .env file in root directory with these variables:
 VITE_CLOUDINARY_CLOUD_NAME=your_cloud_name
 VITE_CLOUDINARY_UPLOAD_PRESET=your_upload_preset
 VITE_API_BASE_URL=your_backend_api_url
 
-🛠️ Installation
+## 🛠️ Installation
 
 Ensure you have the following installed:
 -   Node.js (>=18.x)
