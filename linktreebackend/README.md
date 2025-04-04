@@ -15,14 +15,14 @@ Run the following command inside the project folder:
 npm install
 ```
 This will install all required packages listed in `package.json`.
-### Create a .env file in root directory with these variables:
-# MongoDB Configuration
+## Create a .env file in root directory with these variables:
+### MongoDB Configuration
 DATABASE=database_connection_string
 DATABASE_PASSWORD=
 JWT_KEY=
 PORT=
 
-# Email Configuration (NodeMailer)
+### Email Configuration (NodeMailer)
 EMAIL_USER=your_email
 EMAIL_PASS=your_email_passkey
 
